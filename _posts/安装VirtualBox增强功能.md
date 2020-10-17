@@ -1,3 +1,13 @@
+---
+
+layout: post
+title: 安装VirtualBox增强功能
+subtitle: '虚拟机'
+date: 2019-07-22
+categories: test
+tags:  VM 
+
+---
 ## 1安装VirtualBox增强功能
 
 #### 安装必备的包

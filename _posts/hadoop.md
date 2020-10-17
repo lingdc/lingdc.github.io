@@ -1,3 +1,13 @@
+---
+
+layout: post
+title: hadoop
+subtitle: 'hadoop'
+date: 2019-07-22
+categories: test
+tags:  hadoop 
+
+---
 ## 虚拟机准备
 
 1.防火墙关闭
